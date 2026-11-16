@@ -32,6 +32,8 @@ pip install -e .            # opcjonalnie: komenda `docker-volume-backup`
 
 ## Użycie
 
+### dvb to alias do docker-volume-backup
+
 ```bash
 # lista dostępnych volume
 docker-volume-backup --list
