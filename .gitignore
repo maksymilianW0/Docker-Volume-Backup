@@ -70,3 +70,5 @@ desktop.ini
 # Python build artifacts
 MANIFEST
 pip-log.txt
+
+local/

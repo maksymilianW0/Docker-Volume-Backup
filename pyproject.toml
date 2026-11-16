@@ -11,6 +11,7 @@ requires-python = ">=3.9"
 dependencies = ["docker>=7.1.0"]
 
 [project.scripts]
+dvb = "docker_volume_backup.cli:main"
 docker-volume-backup = "docker_volume_backup.cli:main"
 
 [tool.setuptools.packages.find]
