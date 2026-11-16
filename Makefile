@@ -4,7 +4,7 @@
 build:
 	pyinstaller \
 		--onefile \
-		--name docker-volume-backup \
+		--name dvb \
 		--paths src \
 		build_entry.py
 
