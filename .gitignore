@@ -72,3 +72,4 @@ MANIFEST
 pip-log.txt
 
 local/
+*.spec
